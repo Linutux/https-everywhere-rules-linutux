@@ -1,0 +1,4 @@
+<ruleset name="Medi-Learn.de">
+  <target host="www.medi-learn.de"/>
+  <rule from="^http://(www\.)?medi-learn\.de/" to="https://www.medi-learn.de/"/>
+</ruleset>
