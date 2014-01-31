@@ -1,0 +1,4 @@
+<ruleset name="Hostblogger.de">
+  <target host="hostblogger.de"/>
+  <rule from="^http://(www\.)?hostblogger\.de/" to="https://www.hostblogger.de/"/>
+</ruleset>
